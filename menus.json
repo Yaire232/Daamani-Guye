@@ -1,0 +1,436 @@
+[
+
+    {
+        "Nombre": "Bar, Restaurante Tierras Amazónicas",
+        "Tipo": "Chicharrones de Pirarucú",
+        "Categoria": "Pescado",
+        "Ingredientes": "Filete de pirarucú, sumo de limon, diente de ajo, comino molido, sal, pimienta negra, harina de maiz, aceite vegetal, cilantro.",
+        "Dirección": "CL. 8 # 7-50, Centro de Leticia",
+        "País": "Perú",
+        "Precio": 35.000,
+        "Imagen": "Comida/Chicarron de pirarucú.jpg"
+    }, 
+    {
+        "Nombre": "Restaurante Cevicheria Nativo",
+        "Tipo": "Chicharrones de Pirarucú",
+        "Categoria": "Pescado",
+        "Ingredientes": "Filete de pirarucú, sumo de limon, diente de ajo, comino molido, sal, pimienta negra, harina de maiz, aceite vegetal, cilantro.",
+        "Dirección": "CL. 9 # 8-45, Leticia Amazonas",
+        "País": "Perú",
+        "Precio": 35.000,
+        "Imagen": "Comida/Nativo.jpg"
+    },
+    {
+        "Nombre": "Punto Lounge SAS",
+        "Tipo": "Chicharrones de Pirarucú",
+        "Categoria": "Pescado",
+        "Ingredientes": "Filete de pirarucú, sumo de limon, diente de ajo, comino molido, sal, pimienta negra, harina de maiz, aceite vegetal, cilantro.",
+        "Dirección": "Cl. 5 #470, Leticia, Amazonas",
+        "País": "Perú",
+        "Precio": 35.000,
+        "Imagen": "Comida/restaurante-punto-lounge.jpg"
+    },
+    {
+        "Nombre": "Restaurante Waira ",
+        "Tipo": "Chicharrones de Pirarucú",
+        "Categoria": "Pescado",
+        "Ingredientes": "Filete de pirarucú, sumo de limon, diente de ajo, comino molido, sal, pimienta negra, harina de maiz, aceite vegetal, cilantro.",
+        "Dirección": "Cra. 10 # 7-36, Centro de Leticia",
+        "País": "Perú",
+        "Precio": 35.000,
+        "Imagen": "Comida/Waira.jpg"
+    },
+    {
+        "Nombre": "Restaurante Sazón 100% Peruano",
+        "Tipo": "Chicharrones de Pirarucú",
+        "Categoria": "Pescado",
+        "Ingredientes": "Filete de pirarucú, sumo de limon, diente de ajo, comino molido, sal, pimienta negra, harina de maiz, aceite vegetal, cilantro.",
+        "Dirección": "Cra. 10 #13-9",
+        "País": "Perú",
+        "Precio": 35.000,
+        "Imagen": "Comida/100% peruano.jpg"
+    },
+    {
+        "Nombre": "Restaurante San Jorge",
+        "Tipo": "Chicharrones de Pirarucú",
+        "Categoria": "Pescado",
+        "Ingredientes": "Filete de pirarucú, sumo de limon, diente de ajo, comino molido, sal, pimienta negra, harina de maiz, aceite vegetal, cilantro.",
+        "Dirección": "Avenida da Amizade 1941,Tabatinga",
+        "País": "Perú",
+        "Precio": 35.000,
+        "Imagen": "Comida/San Jorge.jpg"
+    },
+    {
+        "Nombre": "Bar, Restaurante Tierras Amazónicas",
+        "Tipo": "Arroz chaufa estilo amazónico",
+        "Categoria": "Arroces",
+        "Ingredientes": "Arroz Blanco, aceite vegetal, huevos, muslos de pollo, sal, pimienta molida, pimiento rojo, cebolla, ajo, jengibre fresco rayado, cebolla verde, salsa de soya, aceite de sesamo, comino molido, azucar granulado",
+        "Dirección": "CL. 8 # 7-50, Centro de Leticia",
+        "País": "Perú",
+        "Precio": 40.000,
+        "Imagen":"Comida/Arroz Chaufa.jpg"
+
+    
+    },
+    {
+        "Nombre": "Restaurante Cevicheria Nativo",
+        "Tipo": "Arroz chaufa estilo amazónico",
+        "Categoria": "Arroces",
+        "Ingredientes": "Arroz Blanco, aceite vegetal, huevos, muslos de pollo, sal, pimienta molida, pimiento rojo, cebolla, ajo, jengibre fresco rayado, cebolla verde, salsa de soya, aceite de sesamo, comino molido, azucar granulado",
+        "Dirección": "CL. 9 # 8-45, Leticia Amazonas",
+        "País": "Perú",
+        "Precio": 40.000,
+        "Imagen":"Comida/Nativo.jpg"
+    },
+    {
+        "Nombre": "Punto Lounge SAS",
+        "Tipo": "Arroz chaufa estilo amazónico",
+        "Categoria": "Arroces",
+        "Ingredientes": "Arroz Blanco, aceite vegetal, huevos, muslos de pollo, sal, pimienta molida, pimiento rojo, cebolla, ajo, jengibre fresco rayado, cebolla verde, salsa de soya, aceite de sesamo, comino molido, azucar granulado",
+        "Dirección": "Cl. 5 #470, Leticia, Amazonas",
+        "País": "Perú",
+        "Precio": 40.000,
+        "Imagen":"Comida/restaurante-punto-lounge.jpg"
+    },
+    {
+        "Nombre": "Restaurante Waira ",
+        "Tipo": "Arroz chaufa estilo amazónico",
+        "Categoria": "Arroces",
+        "Ingredientes": "Arroz Blanco, aceite vegetal, huevos, muslos de pollo, sal, pimienta molida, pimiento rojo, cebolla, ajo, jengibre fresco rayado, cebolla verde, salsa de soya, aceite de sesamo, comino molido, azucar granulado",
+        "Dirección": "Cra. 10 # 7-36, Centro de Leticia",
+        "País": "Perú",
+        "Precio": 40.000,
+        "Imagen":"Comida/Waira.jpg"
+    },
+    {
+        "Nombre": "Restaurante Sazón 100% Peruano",
+        "Tipo": "Arroz chaufa estilo amazónico",
+        "Categoria": "Arroces",
+        "Ingredientes": "Arroz Blanco, aceite vegetal, huevos, muslos de pollo, sal, pimienta molida, pimiento rojo, cebolla, ajo, jengibre fresco rayado, cebolla verde, salsa de soya, aceite de sesamo, comino molido, azucar granulado",
+        "Dirección": "Cra. 10 #13-9",
+        "País": "Perú",
+        "Precio": 40.000,
+        "Imagen":"Comida/100% peruano.jpg"
+    },
+    {
+        "Nombre": "Restaurante San Jorge",
+        "Tipo": "Arroz chaufa estilo amazónico",
+        "Categoria": "Arroces",
+        "Ingredientes": "Arroz Blanco, aceite vegetal, huevos, muslos de pollo, sal, pimienta molida, pimiento rojo, cebolla, ajo, jengibre fresco rayado, cebolla verde, salsa de soya, aceite de sesamo, comino molido, azucar granulado",
+        "Dirección": "Avenida da Amizade 1941,Tabatinga",
+        "País": "Perú",
+        "Precio": 40.000,
+        "Imagen":"Comida/San Jorge.jpg"
+    },
+    {
+        "Nombre": "Bar, Restaurante Tierras Amazónicas",
+        "Tipo": "Tacacho con cecina y chorizo",
+        "Categoria": "Carnes",
+        "Ingredientes": "Plátano bellaco verde, cecina, panceta de cerdo, chorizo amazonico, sal, aceite",
+        "Dirección": "CL. 8 # 7-50, Centro de Leticia",
+        "País": "Perú",
+        "Precio": 35.000,
+        "Imagen":"Comida/Cesina con chorizo.jpg"
+    },
+    {
+        "Nombre": "Restaurante Cevicheria Nativo",
+        "Tipo": "Tacacho con cecina y chorizo",
+        "Categoria": "Carnes",
+        "Ingredientes": "Plátano bellaco verde, cecina, panceta de cerdo, chorizo amazonico, sal, aceite",
+        "Dirección": "CL. 9 # 8-45, Leticia Amazonas",
+        "País": "Perú",
+        "Precio": 35.000,
+        "Imagen":"Comida/Nativo.jpg"
+    },
+    {
+        "Nombre": "Punto Lounge SAS",
+        "Tipo": "Tacacho con cecina y chorizo",
+        "Categoria": "Carnes",
+        "Ingredientes": "Plátano bellaco verde, cecina, panceta de cerdo, chorizo amazonico, sal, aceite",
+        "Dirección": "Cl. 5 #470, Leticia, Amazonas",
+        "País": "Perú",
+        "Precio": 35.000,
+        "Imagen":"Comida/restaurante-punto-lounge.jpg"
+    },
+    {
+        "Nombre": "Restaurante Waira ",
+        "Tipo": "Tacacho con cecina y chorizo",
+        "Categoria": "Carnes",
+        "Ingredientes": "Plátano bellaco verde, cecina, panceta de cerdo, chorizo amazonico, sal, aceite",
+        "Dirección": "Cra. 10 # 7-36, Centro de Leticia",
+        "País": "Perú",
+        "Precio": 35.000,
+        "Imagen":"Comida/Waira.jpg"
+    },
+    {
+        "Nombre": "Restaurante Sazón 100% Peruano",
+        "Tipo": "Tacacho con cecina y chorizo",
+        "Categoria": "Carnes",
+        "Ingredientes": "Plátano bellaco verde, cecina, panceta de cerdo, chorizo amazonico, sal, aceite",
+        "Dirección": "Cra. 10 #13-9",
+        "País": "Perú",
+        "Precio": 35.000,
+        "Imagen":"Comida/100% peruano.jpg"
+    },
+    {
+        "Nombre": "Restaurante San Jorge",
+        "Tipo": "Tacacho con cecina y chorizo",
+        "Categoria": "Carnes",
+        "Ingredientes": "Plátano bellaco verde, cecina, panceta de cerdo, chorizo amazonico, sal, aceite",
+        "Dirección": "Avenida da Amizade 1941,Tabatinga",
+        "País": "Perú",
+        "Precio": 35.000,
+        "Imagen":"Comida/San Jorge.jpg"
+    },
+    {
+        "Nombre": "Bar, Restaurante Tierras Amazónicas",
+        "Tipo": "Ceviche Peruano",
+        "Categoria": "Pescado",
+        "Ingredientes": "Filetes de pescado, mariscos, conchitas de avanico, langostinos, sumo de limon, aji-no-moto(condimento peruano), doña gusta, pescado y mariscos, cebolla roja, ajo molido, aji limo",
+        "Dirección": "CL. 8 # 7-50, Centro de Leticia",
+        "País": "Perú",
+        "Precio": 45.000,
+        "Imagen":"Comida/Ceviche peruano.jpg"
+    },
+    {
+        "Nombre": "Restaurante Cevicheria Nativo",
+        "Tipo": "Ceviche Peruano",
+        "Categoria": "Pescado",
+        "Ingredientes": "Filetes de pescado, mariscos, conchitas de avanico, langostinos, sumo de limon, aji-no-moto(condimento peruano), doña gusta, pescado y mariscos, cebolla roja, ajo molido, aji limo",
+        "Dirección": "CL. 9 # 8-45, Leticia Amazonas",
+        "País": "Perú",
+        "Precio": 45.000,
+        "Imagen":"Comida/Nativo.jpg"
+    },
+    {
+        "Nombre": "Punto Lounge SAS",
+        "Tipo": "Ceviche Peruano",
+        "Categoria": "Pescado",
+        "Ingredientes": "Filetes de pescado, mariscos, conchitas de avanico, langostinos, sumo de limon, aji-no-moto(condimento peruano), doña gusta, pescado y mariscos, cebolla roja, ajo molido, aji limo",
+        "Dirección": "Cl. 5 #470, Leticia, Amazonas",
+        "País": "Perú",
+        "Precio": 45.000,
+        "Imagen":"Comida/restaurante-punto-lounge.jpg"
+    },
+    {
+        "Nombre": "Restaurante Waira ",
+        "Tipo": "Ceviche Peruano",
+        "Categoria": "Pescado",
+        "Ingredientes": "Filetes de pescado, mariscos, conchitas de avanico, langostinos, sumo de limon, aji-no-moto(condimento peruano), doña gusta, pescado y mariscos, cebolla roja, ajo molido, aji limo",
+        "Dirección": "Cra. 10 # 7-36, Centro de Leticia",
+        "País": "Perú",
+        "Precio": 45.000,
+        "Imagen":"Comida/Waira.jpg"
+    },
+    {
+        "Nombre": "Restaurante Sazón 100% Peruano",
+        "Tipo": "Ceviche Peruano",
+        "Categoria": "Pescado",
+        "Ingredientes": "Filetes de pescado, mariscos, conchitas de avanico, langostinos, sumo de limon, aji-no-moto(condimento peruano), doña gusta, pescado y mariscos, cebolla roja, ajo molido, aji limo",
+        "Dirección": "Cra. 10 #13-9",
+        "País": "Perú",
+        "Precio": 45.000,
+        "Imagen":"Comida/100% peruano.jpg"
+    },
+    {
+        "Nombre": "Restaurante San Jorge",
+        "Tipo": "Ceviche Peruano",
+        "Categoria": "Pescado",
+        "Ingredientes": "Filetes de pescado, mariscos, conchitas de avanico, langostinos, sumo de limon, aji-no-moto(condimento peruano), doña gusta, pescado y mariscos, cebolla roja, ajo molido, aji limo",
+        "Dirección": "Avenida da Amizade 1941,Tabatinga",
+        "País": "Perú",
+        "Precio": 45.000,
+        "Imagen":"Comida/San Jorge.jpg"
+    },
+    {
+        "Nombre": "Bar, Restaurante Tierras Amazónicas",
+        "Tipo": "Tacacho",
+        "Categoria": "Fritos",
+        "Ingredientes": "Plátanos verdes, manteca, chorizos, chicharron, cecina de cerdo",
+        "Dirección": "CL. 8 # 7-50, Centro de Leticia",
+        "País": "Perú",
+        "Precio": 4.000,
+        "Imagen":"Comida/Tacacho.jpg"
+
+    },
+    {
+        "Nombre": "Restaurante Cevicheria Nativo",
+        "Tipo": "Tacacho",
+        "Categoria": "Fritos",
+        "Ingredientes": "Plátanos verdes, manteca, chorizos, chicharron, cecina de cerdo",
+        "Dirección": "CL. 9 # 8-45, Leticia Amazonas",
+        "País": "Perú",
+        "Precio": 4.000,
+        "Imagen":"Comida/Nativo.jpg"
+    },
+    {
+        "Nombre": "Punto Lounge SAS",
+        "Tipo": "Tacacho",
+        "Categoria": "Fritos",
+        "Ingredientes": "Plátanos verdes, manteca, chorizos, chicharron, cecina de cerdo",
+        "Dirección": "Cl. 5 #470, Leticia, Amazonas",
+        "País": "Perú",
+        "Precio": 4.000,
+        "Imagen":"Comida/restaurante-punto-lounge.jpg"
+    },
+    {
+        "Nombre": "Restaurante Waira ",
+        "Tipo": "Tacacho",
+        "Categoria": "Fritos",
+        "Ingredientes": "Plátanos verdes, manteca, chorizos, chicharron, cecina de cerdo",
+        "Dirección": "Cra. 10 # 7-36, Centro de Leticia",
+        "País": "Perú",
+        "Precio": 4.000,
+        "Imagen":"Comida/Waira.jpg"
+    },
+    {
+        "Nombre": "Restaurante Sazón 100% Peruano",
+        "Tipo": "Tacacho",
+        "Categoria": "Fritos",
+        "Ingredientes": "Plátanos verdes, manteca, chorizos, chicharron, cecina de cerdo",
+        "Dirección": "Cra. 10 #13-9",
+        "País": "Perú",
+        "Precio": 4.000,
+        "Imagen":"Comida/100% peruano.jpg"
+    },
+    {
+        "Nombre": "Restaurante San Jorge",
+        "Tipo": "Tacacho",
+        "Categoria": "Fritos",
+        "Ingredientes": "Plátanos verdes, manteca, chorizos, chicharron, cecina de cerdo",
+        "Dirección": "Avenida da Amizade 1941,Tabatinga",
+        "País": "Perú",
+        "Precio": 4.000,
+        "Imagen":"Comida/San Jorge.jpg"
+    },
+    {
+        "Nombre": "La Calle del Humo",
+        "Tipo": "Calabresa",
+        "Categoria": "Fritos",
+        "Ingredientes": "calabresa, arroz, tacacho o yuca",
+        "Dirección": " Cl. 7#5-94 Leticia-Amazonas",
+        "País": "Brasil",
+        "Precio": 10.000,
+        "Imagen":"Comida/Calabresa.jpg"
+    },
+    {
+        "Nombre": "Restaurante Sazon 100% Peruano ",
+        "Tipo": "Mojojoy",
+        "Categoria": "Fritos",
+        "Ingredientes": "mojojoy frito, mojoy crudo, cazabe de momojoy",
+        "Dirección": "Cra. 10 #13-9",
+        "País": "Colombia",
+        "Precio": 10.000,
+        "Imagen":"Comida/Mojojoy.jpg"
+    },
+    {
+        "Nombre": "Restaurante Ceviches Express La chiqui",
+        "Tipo": "Mojojoy",
+        "Categoria": "Fritos",
+        "Ingredientes": "mojojoy frito, mojoy crudo, cazabe de momojoy",
+        "Dirección": "Cra. 2 #11-02",
+        "País": "Colombia",
+        "Precio": 10.000,
+        "Imagen":"Comida/Mojojoy.jpg"
+    },
+    {
+        "Nombre": "Restaurante Heladeria El Viejo Tolima",
+        "Tipo": "Caldo de Costilla",
+        "Categoria": "Sopas",
+        "Ingredientes": "Costilla de res, agua, sal, cilantro, arapa, arroz",
+        "Dirección": "Cl. 8 #10-20",
+        "País": "Colombia",
+        "Precio": 15.000,
+        "Imagen":"Comida/Caldo de costilla.jpg"
+    },
+    {
+        "Nombre": "Cafeteria La Profe",
+        "Tipo": "Empanadas",
+        "Categoria": "Fritos",
+        "Ingredientes": "Harina de maíz, agua, aceite vegetal, sazon con azafran, sal, relleno, papas peladas y partidas en cubo, caldo de pollo o vegetales, aceite de oliva, cebolla blanca picada, tomate picado, cebolla larga, ajo, cilantro, pimenton rojo, carne molida, carne de cerdo, carne de res, pimienta negra, aceite vegetal, limon, aji",
+        "Dirección": "Plaza de mercado leticia a 11-252, Cl. 8 #11-2",
+        "País": "Colombia",
+        "Precio": 15.000,
+        "Imagen":"Comida/EMPANADA.jpg!sw800.jpg"
+    },
+    {
+        "Nombre": "Cafeteria La Profe",
+        "Tipo": "Arepa Rellena",
+        "Categoria": "Fritos",
+        "Ingredientes": "Harina de maíz blanco, agua tibia, sazonador naturismo maggi, pechuga de pollo, jugos al sarten maggi, ajo, cebolla, jamon de cerdo, queso mozzarella",
+        "Dirección": "Plaza de mercado leticia a 11-252, Cl. 8 #11-3",
+        "País": "Colombia",
+        "Precio": 15.000,
+        "Imagen":"Comida/Arepa rellena.jpg"
+    },
+    {
+        "Nombre": "Bar Restaurante Tierras Amazonicas",
+        "Tipo": "Gamitana",
+        "Categoria": "Pescado",
+        "Ingredientes": "Gamitana, cebolla cabezona, cebolla larga, tomates maduros, ajo, pimenton verde y rojo, cilantro, pan rayado, vinagre, aceite, vino blanco, mantequilla",
+        "Dirección": "Barrio Centro Calle 8 #7-50",
+        "País": "Colombia",
+        "Precio": 80.000,
+        "Imagen":"Comida/Gamitana con patacon.jpg"
+    },
+    {
+        "Nombre": "Calle del Humo",
+        "Tipo": "Gamitana",
+        "Categoria": "Pescado",
+        "Ingredientes": "Gamitana, cebolla cabezona, cebolla larga, tomates maduros, ajo, pimenton verde y rojo, cilantro, pan rayado, vinagre, aceite, vino blanco, mantequilla",
+        "Dirección": " Cl. 7#5-94 Leticia-Amazonas",
+        "País": "Colombia",
+        "Precio": 80.000,
+        "Imagen":"Comida/calle del humo.jpg"
+    },
+    {
+        "Nombre": "waira",
+        "Tipo": "arroz",
+        "Categoria": "Arroces",
+        "País": "peru",
+        "Ingredientes": "sin ajo",
+        "Dirección": "centro",
+        "Precio": 80.000,
+        "Imagen":"Comida/Arroz Chaufa.jpg"
+    },
+    {
+        "Nombre": "Cafeteria La Profe",
+        "Tipo": "jugo de copuazú",
+        "Categoria": "Jugos",
+        "País": "Colombia",
+        "Ingredientes": "Copuazú, Agua, Leche, Azucar",
+        "Dirección": "centro",
+        "Precio": 15.000,
+        "Imagen":"Comida/Jugo-Copoazú.jpg"
+    },
+    {
+        "Nombre": "Cafeteria La Profe",
+        "Tipo": "jugo de Mora",
+        "Categoria": "Jugos",
+        "País": "Colombia",
+        "Ingredientes": "Mora, Agua, Leche, Azucar",
+        "Dirección": "centro",
+        "Precio": 15.000,
+        "Imagen":"Comida/Jugo-Mora.jpg"
+    },
+    {
+        "Nombre": "Cafeteria La Profe",
+        "Tipo": "jugo de Guanabana",
+        "Categoria": "Jugos",
+        "País": "Colombia",
+        "Ingredientes": "Guanabana, Agua, Leche, Azucar",
+        "Dirección": "centro",
+        "Precio": 15.000,
+        "Imagen":"Comida/Jugo-Guanabana.jpg"
+    },
+    {
+        "Nombre": "Cafeteria La Profe",
+        "Tipo": "jugo de Arazá",
+        "Categoria": "Jugos",
+        "País": "Colombia",
+        "Ingredientes": "Arazá, Agua, Leche, Azucar",
+        "Dirección": "centro",
+        "Precio": 15.000,
+        "Imagen":"Comida/Jugo-Arazá.jpg"
+    }
+]
